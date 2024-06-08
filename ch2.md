@@ -26,8 +26,8 @@
 2. （序是可传递的）如果 $a\geqslant b$并且 $b \geqslant c$，那么 $a\geqslant c$。
 3. （序是反对称的）如果 $a\geqslant b$并且$b\geqslant a$，那么$a=b$。
 4. （加法保持序不变） $a\geqslant b$，当且仅当 $a+c\geqslant b+c$。
-5. $a<b$，当且仅当 $a++\leqslant b$。
-6. $a<b$，当且仅当存在正自然数 $d$使得 $b=a+d$。
+5.  $a < b$，当且仅当 $a++\leqslant b$。
+6.  $a < b$，当且仅当存在正自然数 $d$使得 $b=a+d$。
 
 #### 答案
 1. 根据引理2.2.2 $a=a+0$,所以依据定义2.2.11有 $a\geqslant a$。
